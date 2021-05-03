@@ -8,7 +8,7 @@ Check out my profile:
 https://github.com/wz-ml
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wz-ml">
+<img src="https://github-readme-stats.vercel.app/api?username=wz-ml">
 
 
 
