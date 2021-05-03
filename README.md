@@ -4,7 +4,6 @@ My personal website! Not much to see here. Check out branch
 
 to see the HTML/CSS build!
 
--------
 
 Check out my profile:
 https://github.com/wz-ml
