@@ -5,6 +5,7 @@ My personal website! Not much to see here. Check out branch
 to see the HTML/CSS build!
 
 Check out my profile:
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wz-ml">
 
 Built with [Bulma](https://bulma.io).
